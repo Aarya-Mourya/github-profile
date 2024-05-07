@@ -95,25 +95,9 @@
 ## Top Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,autocad,fusion-360,ros,gazebo,rviz,html,css,python,opencv,linux,git,ubuntu,aws,matlab" />
   </a>
 </p>
-- AutoCAD
-- Autodesk Fusion 360
-- Robot Operating System (ROS 1 & 2)
-- Gazebo
-- RVIZ
-- HTML
-- CSS
-- Python
-- OpenCV
-- Linux
-- Git & GitHub
-- GNU/Linux
-- Setup Ubuntu Server
-- Amazon Web Services (AWS)
-- MATLAB
-- Graphic Designer
 
 ---
 
