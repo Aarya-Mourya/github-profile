@@ -26,3 +26,13 @@
 
 ## Feel free to reach out to me via email or connect with me on social media. ##
 
+---
+
+### Stats of My Profile 📊
+
+- Total Visitors: 
+- Profile Views: 
+- Projects Completed: 
+- Skills Acquired: 
+- Contributions Made: 
+
