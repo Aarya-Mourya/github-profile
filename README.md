@@ -2,7 +2,6 @@
 ---
 ## HELLO, I'M AARYA MOURYA 
 ---
----
 ## Projects
 - **Sign Language Recognition For Mute And Deaf**
   - Nov 2023 - Apr 2024
@@ -114,6 +113,6 @@
 ## Contact Information
 - **Email:** [aaryamourya52@gmail.com](mailto:aaryamourya52@gmail.com)
 - **LinkedIn:** [Aarya Mourya](https://www.linkedin.com/in/aaryamourya-444051566612094454)
-- 
+
 Feel free to reach out to me via email or connect with me on social media.
 ---
