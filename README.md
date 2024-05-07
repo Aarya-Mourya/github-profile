@@ -116,11 +116,6 @@
 ---
 
 ## Contact Information
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord, notion,mail" />
-  </a>
-</p>
 - **Email:** [aarya.a.mourya@gmail.com](mailto:aaryamourya52@gmail.com)
 - **LinkedIn:** Aarya Mourya
 
