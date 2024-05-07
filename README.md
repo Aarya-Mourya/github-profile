@@ -13,7 +13,56 @@ I am a dedicated student pursuing a degree in Electronics & Computer Science Eng
 - **Autonomous Maze Solving Robot**
   - Aug 2022 - Apr 2023
   - Associated with Shree L. R. Tiwari College of Engineering
-  - Our objective was to design and develop a 2-Wheel Simple Maze Solving Robot that could navigate through a simple maze without colliding with any of the walls. Components used included L298N Motor Driver, Arduino UNO board, HC-SR04 Ultrasonic Sensor, TowerPro SG 90 Micro Servo Motor, BO Series 1 100RPM Plastic Gear DC Motors, 65mm Robot Wheels (Yellow) for the BO Motors, Acrylic Chassis for 2-wheel Robot, and various screws and nut bolts for assembly. The project showcased problem-solving skills and practical application of robotics concepts.
+  - Our objective was to design and develop a 2-Wheel Simple Maze Solving Robot that could navigate through a simple maze without colliding to any of the walls. To build this Robot :-
+
+1. L298N Motor Driver.
+2. Arduino UNO board.
+3. HC-SR04 Ultrasonic Sensor.
+4. TowerPro SG 90 Micro Servo Motor.
+5. BO Series 1 100RPM Plastic Gear DC Motors.
+6. 65mm Robot Wheels (Yellow) for the BO Motors.
+7. Acrylic Chassis for 2-wheel Robot.
+8. Some Screws and Nut Bolts to assemble all parts together.
+9. Jumper Wires
+ 
+  - **Light Fidelity [Li-Fi]**
+  - Apr 2021 - Jun 2022
+  - Associated with Shree L. R. Tiwari College of Engineering
+  - Li-Fi is a high-speed wireless internet technology that uses LED light bulbs to transmit data through imperceptible light pulses. Receivers interpret these pulses, achieving speeds over 100 Gbps, 14 times faster than WiGig. Components include 
+-LED
+-aux cable (3.5 mm jack)
+-speaker
+-resistor (100 ohms)
+-wires
+-solar panel
+-mobile phone/Alexa
+---
+---
+## Experience
+- **PIXELWORKS - FREELANCE**
+  - Graphic Designer
+  - September 2022 - April 2024 (1 year 8 months)
+  - Mumbai, Maharashtra, India
+
+- **The Innovation Story - INTERNSHIP**
+  - Graphic Designer
+  - October 2023 - March 2024 (6 months)
+  - Mumbai, Maharashtra, India
+
+- **ECSSA - SLRTCE**
+  - Creative Team Lead
+  - July 2023 - October 2023 (4 months)
+  - Mumbai, Maharashtra, India
+
+- **E-Cell SLRTCE**
+  - Graphic Design Coordinator
+  - June 2022 - July 2023 (1 year 2 months)
+  - Shree L. R. Tiwari College of Engineering
+
+- **Shree L. R. Tiwari College of Engineering**
+  - Cybersecurity Internship
+  - March 2023 - April 2023 (2 months)
+  - Mumbai, Maharashtra, India
 ---
 ---
 ## CertificationS Workshops Attended
@@ -49,33 +98,6 @@ I am a dedicated student pursuing a degree in Electronics & Computer Science Eng
 - Amazon Web Services (AWS)
 - MATLAB
 - Graphic Designer
----
----
-## Experience
-- **PIXELWORKS - FREELANCE**
-  - Graphic Designer
-  - September 2022 - April 2024 (1 year 8 months)
-  - Mumbai, Maharashtra, India
-
-- **The Innovation Story - INTERNSHIP**
-  - Graphic Designer
-  - October 2023 - March 2024 (6 months)
-  - Mumbai, Maharashtra, India
-
-- **ECSSA - SLRTCE**
-  - Creative Team Lead
-  - July 2023 - October 2023 (4 months)
-  - Mumbai, Maharashtra, India
-
-- **E-Cell SLRTCE**
-  - Graphic Design Coordinator
-  - June 2022 - July 2023 (1 year 2 months)
-  - Shree L. R. Tiwari College of Engineering
-
-- **Shree L. R. Tiwari College of Engineering**
-  - Cybersecurity Internship
-  - March 2023 - April 2023 (2 months)
-  - Mumbai, Maharashtra, India
 ---
 ---
 ## Education
