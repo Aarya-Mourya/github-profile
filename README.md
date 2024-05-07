@@ -4,6 +4,7 @@
 <div style="background: linear-gradient(to right, #ff7e5f, #feb47b); height: 2px; margin: 20px 0;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Aarya+Mourya+👋">
 </div>
+
 ---
 ## Projects 🚀
 ---
