@@ -1,7 +1,6 @@
 # github-profile
 ---
-## Summary
-I am a dedicated student pursuing a degree in Electronics & Computer Science Engineering with a strong interest in robotics. Alongside my studies, I have a notable knack for graphic design, which I have been exploring through freelancing. While my primary passion lies in robotics, I aim to harness my graphic design skills and transform it into a side venture to complement my robotics journey.
+## HELLO, I'M AARYA MOURYA 
 ---
 ---
 ## Projects
@@ -115,5 +114,6 @@ I am a dedicated student pursuing a degree in Electronics & Computer Science Eng
 ## Contact Information
 - **Email:** [aaryamourya52@gmail.com](mailto:aaryamourya52@gmail.com)
 - **LinkedIn:** [Aarya Mourya](https://www.linkedin.com/in/aaryamourya-444051566612094454)
+- 
 Feel free to reach out to me via email or connect with me on social media.
 ---
