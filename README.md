@@ -8,7 +8,6 @@
 ---
 ## Projects
 - **Sign Language Recognition For Mute And Deaf**
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fdeaf-mute-sign-language-character-gesture-vector-23493387&psig=AOvVaw1cRaEDk5mdZ2XMAt3EiLrU&ust=1715152519978000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC6tpf_-oUDFQAAAAAdAAAAABAQ" alt="Description of your image" width="300">
   - Nov 2023 - Apr 2024
   - Associated with Shree L. R. Tiwari College of Engineering
   - A computer vision-based sign language recognition system using Machine Learning models, Python, and OpenCV. The system accurately recognizes American Sign Language (ASL) gestures in real time, enabling efficient communication for newly deaf/mute individuals. By training the model on a comprehensive dataset, we ensure rapid and precise conversion of ASL gestures into text, promoting inclusivity. Thorough testing proves the system works well in different situations, connecting people with and without disabilities and promoting an inclusive society.
