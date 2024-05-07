@@ -1,14 +1,10 @@
 # github-profile
 ---
-<!--horizontal divider(gradiant)-->
-<div style="background: linear-gradient(to right, #ff7e5f, #feb47b); height: 2px; margin: 20px 0;"></div>
-
-<!--h1 without bottom border-->
-<div>
+<div style="background: linear-gradient(to right, #ff7e5f, #feb47b); height: 2px; margin: 20px 0;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name+is+Aarya+Mourya+👋">
-</div>
+    style="background: linear-gradient(to right, #ff7e5f, #feb47b); height: 2px; margin: 20px 0;">
 
-<h1 style="border-bottom: none;">Hello! My Name's Aarya Mourya👋</h1>
+</div>
 ---
 ## Projects
 - **Sign Language Recognition For Mute And Deaf**
