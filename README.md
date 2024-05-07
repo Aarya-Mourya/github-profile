@@ -1,6 +1,14 @@
 # github-profile
 ---
-## HELLO, I'M AARYA MOURYA 
+<!--horizontal divider(gradiant)-->
+<div style="background: linear-gradient(to right, #ff7e5f, #feb47b); height: 2px; margin: 20px 0;"></div>
+
+<!--h1 without bottom border-->
+<div>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h1 style="border-bottom: none;">Hello! My Name's Aarya Mourya👋</h1>
 ---
 ## Projects
 - **Sign Language Recognition For Mute And Deaf**
