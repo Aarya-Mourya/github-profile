@@ -130,7 +130,7 @@
 ## Contact Information
 
 - **Email:** [aarya.a.mourya@gmail.com](mailto:aaryamourya52@gmail.com)
-- **LinkedIn:** [Aarya Mourya](www.linkedin.com/in/aarya-mourya-444051566612094454)
+- **LinkedIn:** [Aarya Mourya]
 
 Feel free to reach out to me via email or connect with me on social media.
 
