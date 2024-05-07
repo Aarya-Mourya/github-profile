@@ -2,7 +2,10 @@
 
 ---
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name+is+Aarya+Mourya+👋)
+<!-- Animated typing effect -->
+<div style="background: linear-gradient(to right, #ff7e5f, #feb47b); height: 2px; margin: 20px 0;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Aarya+Mourya+👋">
+</div>
 
 ---
 
@@ -17,6 +20,7 @@
   - Aug 2022 - Apr 2023
   - Associated with Shree L. R. Tiwari College of Engineering
   - Our objective was to design and develop a 2-Wheel Simple Maze Solving Robot that could navigate through a simple maze without colliding to any of the walls. To build this Robot :-
+
     1. L298N Motor Driver.
     2. Arduino UNO board.
     3. HC-SR04 Ultrasonic Sensor.
@@ -70,7 +74,7 @@
 
 ---
 
-## CertificationS Workshops Attended
+## Certifications Workshops Attended
 
 - GitHub Basics
 - Setup Ubuntu Server
@@ -133,3 +137,11 @@
 Feel free to reach out to me via email or connect with me on social media.
 
 ---
+
+<!-- Additional animation or decoration -->
+<div style="text-align: center;">
+    <!-- Animated gif -->
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Description of your animation" width="300">
+    <!-- Horizontal divider with gradient -->
+    <div style="background: linear-gradient(to right, #ff7e5f, #feb47b); height: 2px; margin: 20px 0;"></div>
+</div>
