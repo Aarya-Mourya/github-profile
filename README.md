@@ -95,7 +95,7 @@
 ## Top Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,c++,vim,autocad,fusion360,ros,html,css,python,opencv,linux,github,ubuntu,aws,matlab" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,autocad,ros,html,css,python,opencv,linux,github,ubuntu,aws,matlab" />
   </a>
 </p>
 
