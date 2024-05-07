@@ -1,19 +1,17 @@
-# Welcome To My Profile!
+# Welcome To My Profile! 🌟
 
 <!-- Animated typing effect -->
 <div style="background: linear-gradient(to right, #ff7e5f, #feb47b); height: 2px; margin: 20px 0;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Aarya+Mourya+👋">
 </div>
-
 ---
-
-## Projects
-
+## Projects 🚀
+---
 - **🤟Sign Language Recognition For Mute And Deaf👌**
   - Nov 2023 - Apr 2024
   - Associated with Shree L. R. Tiwari College of Engineering
   - A computer vision-based sign language recognition system using Machine Learning models, Python, and OpenCV. The system accurately recognizes American Sign Language (ASL) gestures in real time, enabling efficient communication for newly deaf/mute individuals. By training the model on a comprehensive dataset, we ensure rapid and precise conversion of ASL gestures into text, promoting inclusivity. Thorough testing proves the system works well in different situations, connecting people with and without disabilities and promoting an inclusive society.
-
+---
 - **🦾Autonomous Maze Solving Robot🦿**
   - Aug 2022 - Apr 2023
   - Associated with Shree L. R. Tiwari College of Engineering
@@ -28,7 +26,7 @@
     7. Acrylic Chassis for 2-wheel Robot.
     8. Some Screws and Nut Bolts to assemble all parts together.
     9. Jumper Wires
-
+---
 - **💡Light Fidelity [Li-Fi]🖨**
   - Apr 2021 - Jun 2022
   - Associated with Shree L. R. Tiwari College of Engineering
@@ -40,11 +38,9 @@
     - wires
     - solar panel
     - mobile phone/Alexa
-
 ---
-
-## Experience
-
+## Experience 💼
+---
 - **PIXELWORKS - FREELANCE**
   - Graphic Designer
   - September 2022 - April 2024 (1 year 8 months)
@@ -69,11 +65,9 @@
   - Cybersecurity Internship
   - March 2023 - April 2023 (2 months)
   - Mumbai, Maharashtra, India
-
 ---
-
-## Certifications
-
+## Certifications 🎓
+---
 - GitHub Basics
 - Setup Ubuntu Server
 - Introduction to Generative AI
@@ -81,28 +75,23 @@
 - Learn Fusion 360 in 90 Minutes
 - Robotics & ROS Introduction
 - AWS Academy Graduate - AWS Academy Cloud Foundations
-
 ---
-
-## Workshops Attended
-
+## Workshops Attended 🛠️
+---
 - E-Summit'23 Participation [IIT Bombay]
 - Robot Designing and Simulation by HunarPro [JSPM's Rajarshi Shahu College of Engineering, Pune]
 - AutomationExpo 2023 - NESCO - [Mumbai]
-
 ---
-
-## Goal Skills
+## Goal Skills 🎯
+---
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,autocad,ros,html,css,python,opencv,linux,github,ubuntu,aws,matlab,arduino,unity,kali,fusion" />
   </a>
 </p>
-
 ---
-
-## Education
-
+## Education 📚
+---
 - **SHREE L. R. TIWARI COLLEGE OF ENGINEERING**
   - Bachelor of Engineering - BE, Electronics and Computer Science
   - December 2021 - March 2025
@@ -112,13 +101,11 @@
 
 - **SARDAR VALLABHBHAI PATEL VIDYALAYA**
   - 2009 - 2019
-
 ---
-
-## Contact Information
-- **Email:** [aarya.a.mourya@gmail.com](mailto:aaryamourya52@gmail.com)
+## Contact Information 📧
+---
+- **Email:** [aarya.a.mourya@gmail.com](mailto:aarya.a.mourya@gmail.com)
 - **LinkedIn:** Aarya Mourya
 
 Feel free to reach out to me via email or connect with me on social media.
-
 ---
