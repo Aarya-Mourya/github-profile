@@ -10,11 +10,16 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,autocad,ros,html,css,python,opencv,linux,github,ubuntu,aws,matlab,arduino,unity,kali,fusion" />
   </a>
 </p>
+
 ---
+
 ## Contact Information 📧
+
 ---
+
 - **Email:** [aarya.a.mourya@gmail.com](mailto:aarya.a.mourya@gmail.com)
 - **LinkedIn:** Aarya Mourya
+
 ---
 
 ## Feel free to reach out to me via email or connect with me on social media. ##
