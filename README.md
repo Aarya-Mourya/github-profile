@@ -90,9 +90,11 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,autocad,ros,html,css,python,opencv,linux,github,ubuntu,aws,matlab,arduino,unity,kali,fusion" />
   </a>
 </p>
+
 ---
 ## Education 📚
 ---
+
 - **SHREE L. R. TIWARI COLLEGE OF ENGINEERING**
   - Bachelor of Engineering - BE, Electronics and Computer Science
   - December 2021 - March 2025
