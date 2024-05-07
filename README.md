@@ -9,12 +9,12 @@
 
 ## Projects
 
-- **Sign Language Recognition For Mute And Deaf**
+- **🤟Sign Language Recognition For Mute And Deaf👌**
   - Nov 2023 - Apr 2024
   - Associated with Shree L. R. Tiwari College of Engineering
   - A computer vision-based sign language recognition system using Machine Learning models, Python, and OpenCV. The system accurately recognizes American Sign Language (ASL) gestures in real time, enabling efficient communication for newly deaf/mute individuals. By training the model on a comprehensive dataset, we ensure rapid and precise conversion of ASL gestures into text, promoting inclusivity. Thorough testing proves the system works well in different situations, connecting people with and without disabilities and promoting an inclusive society.
 
-- **Autonomous Maze Solving Robot**
+- **🦾Autonomous Maze Solving Robot🦿**
   - Aug 2022 - Apr 2023
   - Associated with Shree L. R. Tiwari College of Engineering
   - Our objective was to design and develop a 2-Wheel Simple Maze Solving Robot that could navigate through a simple maze without colliding to any of the walls. To build this Robot :-
@@ -29,7 +29,7 @@
     8. Some Screws and Nut Bolts to assemble all parts together.
     9. Jumper Wires
 
-- **Light Fidelity [Li-Fi]**
+- **💡Light Fidelity [Li-Fi]🖨**
   - Apr 2021 - Jun 2022
   - Associated with Shree L. R. Tiwari College of Engineering
   - Li-Fi is a high-speed wireless internet technology that uses LED light bulbs to transmit data through imperceptible light pulses. Receivers interpret these pulses, achieving speeds over 100 Gbps, 14 times faster than WiGig. Components include 
@@ -93,7 +93,11 @@
 ---
 
 ## Top Skills
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 - AutoCAD
 - Autodesk Fusion 360
 - Robot Operating System (ROS 1 & 2)
