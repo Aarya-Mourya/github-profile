@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning **AI, Machine Learning, and Robotics**
 - 🤝 I’m looking for help with **Research & Job Opportunities**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/aaryamourya)
-- 
 ---
 
 ## Connect with Me:
